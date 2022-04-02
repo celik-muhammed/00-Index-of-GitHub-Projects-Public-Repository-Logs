@@ -3,3 +3,6 @@
     - GitHub, GitLab etc. widely used across platforms. 
     - Files with the .md extension are Markdown files.
 ## Let's open our ReadMe.md file and start editing.
+
+
+[kullanım linki](https://kodumunblogu.net/detail/markdown-kullanimi)
