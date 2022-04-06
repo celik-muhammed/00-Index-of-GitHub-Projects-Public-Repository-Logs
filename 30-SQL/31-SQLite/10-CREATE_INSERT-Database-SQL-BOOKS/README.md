@@ -1,3 +1,5 @@
+# [for SQLite CODE CLICK](books.sql)
+
 # CREATE
   - CREATE TABLE book_types
   - CREATE TABLE authors
