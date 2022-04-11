@@ -15,5 +15,5 @@
 
 
 
-![bookstore0.png](bookstore0.png)
-![bookstore1.png](bookstore1.png)  
+![bookstore0.png](../../31-SQLite/10-CREATE_INSERT-Database-SQL-BOOKSTORE/bookstore0.png)
+![bookstore1.png](../../31-SQLite/10-CREATE_INSERT-Database-SQL-BOOKSTORE/bookstore1.png)  
