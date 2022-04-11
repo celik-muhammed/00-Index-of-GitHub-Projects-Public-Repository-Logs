@@ -1,23 +1,59 @@
 - You can follow me on [Linkedin](https://www.linkedin.com/in/%C3%A7elik-muhammed/).
 <hr>
 
-# **01-Python**         [[see documentation/]](01-Python)
-# **02-Kotlin**         [[see documentation/]](02-Kotlin)
-# 03-Java               [[see documentation/]](03-Java)
+<h1>Index of Public Projects</h1>
 
-# **10-Python-App**     [[see documentation/]](10-Python-App)
-# **11-Android-App**    [[see documentation/]](11-Android-App)
->## **01-Kotlin-App**   [[see documentation/]](11-Android-App/01-Kotlin-App)
->## **02-Java-App**     [[see documentation/]](11-Android-App/02-Java-App)
-# **20-Linux**          [[see documentation/]](20-Linux)
-
-<div>
-
-# **99-Web-Developer**  [[see documentation/]](99-Web-Developer/)
->## 01-html             [[see documentation/]](99-Web-Developer/01-html/)
->## 02-html-css         [[see documentation/]](99-Web-Developer/02-html-css/)
->## **03-html-js**      [[see documentation/]](99-Web-Developer/03-html-js/)
->## 04-html-php         [[see documentation/]](99-Web-Developer/04-html-php/)
-</div>
+<table>
+  <thead>
+    <tr>
+        <th>Project Name</th>  <th>Repo Link</th>  <th>App Link</th>  <th>Overview</th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td>01-Python</td>
+      <td><a href="01-Python" target="_blank">Repo details</a></td>
+      <td><a href="^#" target="_blank">App details</a></td>
+      <td><img src="https://www.python.org/static/img/python-logo.png" alt="tictactoe" height=50></td>
+    </tr>
+    <tr>
+      <td>02-Java</td>
+      <td><a href="02-Java" target="_blank">Repo details</a></td>
+      <td><a href="^#" target="_blank">App details</a></td>
+      <td><img src="https://www.python.org/static/img/python-logo.png" alt="tictactoe" height=50></td>
+    </tr>
+    <tr>
+      <td>02-Kotlin</td>
+      <td><a href="01-Python" target="_blank">Repo details</a></td>
+      <td><a href="^#" target="_blank">App details</a></td>
+      <td><img src="https://www.python.org/static/img/python-logo.png" alt="tictactoe" height=50></td>
+    </tr>
+    <tr>
+      <td>10-Python-App</td>
+      <td><a href="10-Python-App" target="_blank">Repo details</a></td>
+      <td><a href="^#" target="_blank">App details</a></td>
+      <td><img src="https://www.python.org/static/img/python-logo.png" alt="tictactoe" height=50></td>
+    </tr>
+    <tr>
+      <td>20-Linux</td>
+      <td><a href="20-Linux" target="_blank">Repo details</a></td>
+      <td><a href="^#" target="_blank">App details</a></td>
+      <td><img src="https://www.python.org/static/img/python-logo.png" alt="tictactoe" height=50></td>
+    </tr>
+    <tr>
+      <td>30-SQL</td>
+      <td><a href="30-SQL" target="_blank">Repo details</a></td>
+      <td><a href="^#" target="_blank">App details</a></td>
+      <td><img src="https://www.python.org/static/img/python-logo.png" alt="tictactoe" height=50></td>
+    </tr>
+    <tr>
+      <td>99-Web-Developer</td>
+      <td><a href="99-Web-Developer" target="_blank">Repo details</a></td>
+      <td><a href="^#" target="_blank">App details</a></td>
+      <td><img src="https://www.python.org/static/img/python-logo.png" alt="tictactoe" height=50></td>
+    </tr>
+  </tbody>
+</table>
 
 ![](https://picsum.photos/id/1044/1920/1080)
