@@ -15,7 +15,7 @@
       <td>My Watch showing time with CSS</td>
       <td><a href="https://github.com/celik-muhammed/92-HTML-CSS/tree/master/01-my_watch" target="_blank">Repo details</a></td>
       <td><a href="^#" target="_blank">App details</a></td>
-      <td><img src="" alt="My-Watch" height=150></td>
+      <td><img src="https://user-images.githubusercontent.com/94930605/163656750-d7f6b6b6-8898-4ef1-998f-e139e09c8de4.jpg" alt="My-Watch" height=150></td>
     </tr>
   </tbody>
 </table>
