@@ -1,4 +1,4 @@
-# Index of Public Projects
+# Index of GitHub Public Projects Repository Logs
 
 <table>
   <thead>
