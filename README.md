@@ -46,5 +46,23 @@
       <td><a href="^#" target="_blank">App details</a></td>
       <td><img src="https://www.python.org/static/img/python-logo.png" alt="python" height=39></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/celik-muhammed/11-Data-Analysis-with-Python" target="_blank">11-Data-Analysis-with-Python</a></td>
+      <td><a href="https://github.com/celik-muhammed/11-Data-Analysis-with-Python" target="_blank">Repo details</a></td>
+      <td><a href="^#" target="_blank">App details</a></td>
+      <td><img src="https://www.python.org/static/img/python-logo.png" alt="python" height=39></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/celik-muhammed/60-SQL" target="_blank">60-SQL</a></td>
+      <td><a href="https://github.com/celik-muhammed/60-SQL" target="_blank">Repo details</a></td>
+      <td><a href="^#" target="_blank">App details</a></td>
+      <td><img src="https://www.python.org/static/img/python-logo.png" alt="python" height=39></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/celik-muhammed/70-Linux" target="_blank">70-Linux</a></td>
+      <td><a href="https://github.com/celik-muhammed/70-Linux" target="_blank">Repo details</a></td>
+      <td><a href="^#" target="_blank">App details</a></td>
+      <td><img src="https://www.python.org/static/img/python-logo.png" alt="python" height=39></td>
+    </tr>
   </tbody>
 </table>
