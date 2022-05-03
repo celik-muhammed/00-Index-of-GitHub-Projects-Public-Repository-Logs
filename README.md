@@ -47,6 +47,12 @@
       <td><img src="https://www.python.org/static/img/python-logo.png" alt="python" height=39></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/celik-muhammed/11-Data-Statistics-Basics" target="_blank">11-Data-Statistics-Basics</a></td>
+      <td><a href="https://github.com/celik-muhammed/11-Data-Statistics-Basics" target="_blank">Repo details</a></td>
+      <td><a href="^#" target="_blank">App details</a></td>
+      <td><img src="https://www.python.org/static/img/python-logo.png" alt="python" height=39></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/celik-muhammed/11-Data-Analysis-with-Python" target="_blank">11-Data-Analysis-with-Python</a></td>
       <td><a href="https://github.com/celik-muhammed/11-Data-Analysis-with-Python" target="_blank">Repo details</a></td>
       <td><a href="^#" target="_blank">App details</a></td>
