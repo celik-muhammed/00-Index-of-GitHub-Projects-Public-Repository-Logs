@@ -14,37 +14,37 @@
       <td><a href="https://github.com/celik-muhammed/01-Python-for-Beginners" target="_blank">01-Python-for-Beginners</a></td>
       <td><a href="https://github.com/celik-muhammed/01-Python-for-Beginners" target="_blank">Repo details</a></td>
       <td><a href="^#" target="_blank">App details</a></td>
-      <td><img src="https://www.python.org/static/img/python-logo.png" alt="tictactoe" height=41></td>
+      <td><img src="https://www.python.org/static/img/python-logo.png" alt="python" height=41></td>
     </tr>
     <tr>
       <td><a href="https://github.com/celik-muhammed/02-Python-Data-Structures" target="_blank">02-Python-Data-Structures</a></td>
       <td><a href="https://github.com/celik-muhammed/02-Python-Data-Structures" target="_blank">Repo details</a></td>
       <td><a href="^#" target="_blank">App details</a></td>
-      <td><img src="https://www.python.org/static/img/python-logo.png" alt="tictactoe" height=39></td>
+      <td><img src="https://www.python.org/static/img/python-logo.png" alt="python" height=39></td>
     </tr>
     <tr>
       <td><a href="https://github.com/celik-muhammed/03-Intermediate-Python" target="_blank">03-Intermediate-Python</a></td>
       <td><a href="https://github.com/celik-muhammed/03-Intermediate-Python" target="_blank">Repo details</a></td>
       <td><a href="^#" target="_blank">App details</a></td>
-      <td><img src="https://www.python.org/static/img/python-logo.png" alt="tictactoe" height=39></td>
+      <td><img src="https://www.python.org/static/img/python-logo.png" alt="python" height=39></td>
     </tr>
     <tr>
       <td><a href="https://github.com/celik-muhammed/04-Python-Core" target="_blank">04-Python-Core</a></td>
       <td><a href="https://github.com/celik-muhammed/04-Python-Core" target="_blank">Repo details</a></td>
       <td><a href="^#" target="_blank">App details</a></td>
-      <td><img src="https://www.python.org/static/img/python-logo.png" alt="tictactoe" height=39></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/celik-muhammed/05-Python-for-Data-Science" target="_blank">05-Python-for-Data-Science</a></td>
-      <td><a href="https://github.com/celik-muhammed/05-Python-for-Data-Science" target="_blank">Repo details</a></td>
-      <td><a href="^#" target="_blank">App details</a></td>
-      <td><img src="https://www.python.org/static/img/python-logo.png" alt="tictactoe" height=39></td>
+      <td><img src="https://www.python.org/static/img/python-logo.png" alt="python" height=39></td>
     </tr>
     <tr>
       <td><a href="https://github.com/celik-muhammed/09-Python-Application" target="_blank">09-Python-Application</a></td>
       <td><a href="https://github.com/celik-muhammed/09-Python-Application" target="_blank">Repo details</a></td>
       <td><a href="^#" target="_blank">App details</a></td>
-      <td><img src="https://www.python.org/static/img/python-logo.png" alt="tictactoe" height=39></td>
+      <td><img src="https://www.python.org/static/img/python-logo.png" alt="python" height=39></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/celik-muhammed/10-Python-for-Data-Science" target="_blank">10-Python-for-Data-Science</a></td>
+      <td><a href="https://github.com/celik-muhammed/10-Python-for-Data-Science" target="_blank">Repo details</a></td>
+      <td><a href="^#" target="_blank">App details</a></td>
+      <td><img src="https://www.python.org/static/img/python-logo.png" alt="python" height=39></td>
     </tr>
   </tbody>
 </table>
