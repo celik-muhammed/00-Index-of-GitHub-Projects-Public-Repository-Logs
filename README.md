@@ -102,6 +102,7 @@
         <img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/azure-data-studio.svg?view=sql-server-ver15" alt="sql" height=39>
         <img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/ssms.svg?view=sql-server-ver15" alt="sql" height=39>
         <img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/ssdt.svg?view=sql-server-ver15" alt="sql" height=39>
+        <img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/visual-studio-code.svg?view=sql-server-ver15" alt="python" height=41>  
       </td>
     </tr>
     <tr>
