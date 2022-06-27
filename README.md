@@ -1,4 +1,4 @@
-# Index of GitHub Public Projects Repository Logs
+### [Go to Home Page](https://github.com/celik-muhammed)
 
 <table>
   <thead>
@@ -8,9 +8,6 @@
       <th>App Link</th>
       <th>Overview</th>
     </tr>
-    <tr>
-      <td colspan="4"  align="center"><a href="https://github.com/celik-muhammed" target="_blank">Go to Home Page</a></td>
-    </tr>
   </thead>  
   <tbody>
     <tr>
