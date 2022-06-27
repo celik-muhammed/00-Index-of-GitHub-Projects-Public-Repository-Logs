@@ -9,8 +9,7 @@
       <th>Overview</th>
     </tr>
     <tr>
-      <td colspan="4"  align="center"><a href="https://github.com/celik-muhammed/00-Index-of-GitHub-Public-Projects-Repository-Logs" target="_blank">
-        Go to Main Page - 00-Index-of-GitHub-Public-Projects-Repository-Logs</a></td>
+      <td colspan="4"  align="center"><a href="https://github.com/celik-muhammed" target="_blank">Go to Home Page</a></td>
     </tr>
   </thead>  
   <tbody>
