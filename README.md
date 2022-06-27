@@ -81,6 +81,7 @@
       <td>
         <img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/azure-data-studio.svg?view=sql-server-ver15" alt="sql" height=39>
         <img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/ssms.svg?view=sql-server-ver15" alt="sql" height=39>
+        <br>
         <img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/ssdt.svg?view=sql-server-ver15" alt="sql" height=39>
         <img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/visual-studio-code.svg?view=sql-server-ver15" alt="python" height=41>  
       </td>
@@ -90,10 +91,11 @@
       <td><a href="https://github.com/celik-muhammed/70-Linux" target="_blank">Repo details</a></td>
       <td><a href="^#" target="_blank">App details</a></td>
       <td>
-        <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_720/https://lh6.googleusercontent.com/a_-JNT0OC06ECZ2qVFHqbfQ9yhXK4bMzTeans4uHO2amgKA-5877J-o9Vey67OgRrcaYdBShI32lfx_kP1Ea4B4njsmDikNzpM35M6B_wjlhiWKX0AgO8VnQcOM2qEmSvBomb36H_ruSgV5sUw" alt="linux" height=39>
+        <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_720/https://lh6.googleusercontent.com/a_-JNT0OC06ECZ2qVFHqbfQ9yhXK4bMzTeans4uHO2amgKA-5877J-o9Vey67OgRrcaYdBShI32lfx_kP1Ea4B4njsmDikNzpM35M6B_wjlhiWKX0AgO8VnQcOM2qEmSvBomb36H_ruSgV5sUw" alt="linux" height=32 width=60>
+        <img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/visual-studio-code.svg?view=sql-server-ver15" alt="python" height=41> 
+        <br>
         <img src="https://assets.ubuntu.com/v1/ed348358-logo-cof.svg" alt="linux" height=39>
-        <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_365,h_236/https://assets.ubuntu.com/v1/1c786630-image-cloud.svg" alt="linux" height=39>
-        <img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/visual-studio-code.svg?view=sql-server-ver15" alt="python" height=41>        
+        <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_365,h_236/https://assets.ubuntu.com/v1/1c786630-image-cloud.svg" alt="linux" height=39>       
       </td>
     </tr>
   </tbody>
