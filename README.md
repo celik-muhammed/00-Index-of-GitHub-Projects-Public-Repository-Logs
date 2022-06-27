@@ -65,8 +65,8 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/celik-muhammed/10-Data-Analysis-with-Python" target="_blank">10-Data-Analysis-with-Python</a></td>
-      <td><a href="https://github.com/celik-muhammed/10-Data-Analysis-with-Python" target="_blank">Repo details</a></td>
+      <td><a href="https://github.com/celik-muhammed/11-Python-Data-Statistics-Basics" target="_blank">11-Python-Data-Statistics-Basics</a></td>
+      <td><a href="https://github.com/celik-muhammed/11-Python-Data-Statistics-Basics" target="_blank">Repo details</a></td>
       <td><a href="^#" target="_blank">App details</a></td>
       <td>
         <img src="https://www.python.org/static/img/python-logo.png" alt="python" height=41>
@@ -75,8 +75,8 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/celik-muhammed/11-Data-Statistics-Basics" target="_blank">11-Data-Statistics-Basics</a></td>
-      <td><a href="https://github.com/celik-muhammed/11-Data-Statistics-Basics" target="_blank">Repo details</a></td>
+      <td><a href="https://github.com/celik-muhammed/12-Python-Data-Analysis" target="_blank">12-Python-Data-Analysis</a></td>
+      <td><a href="https://github.com/celik-muhammed/12-Python-Data-Analysis" target="_blank">Repo details</a></td>
       <td><a href="^#" target="_blank">App details</a></td>
       <td>
         <img src="https://www.python.org/static/img/python-logo.png" alt="python" height=41>
@@ -85,8 +85,8 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/celik-muhammed/11-Data-Analysis-with-Python" target="_blank">11-Data-Analysis-with-Python</a></td>
-      <td><a href="https://github.com/celik-muhammed/11-Data-Analysis-with-Python" target="_blank">Repo details</a></td>
+      <td><a href="https://github.com/celik-muhammed/13-Python-Data-Visualization" target="_blank">13-Python-Data-Visualization</a></td>
+      <td><a href="https://github.com/celik-muhammed/13-Python-Data-Visualization" target="_blank">Repo details</a></td>
       <td><a href="^#" target="_blank">App details</a></td>
       <td>
         <img src="https://www.python.org/static/img/python-logo.png" alt="python" height=41>
