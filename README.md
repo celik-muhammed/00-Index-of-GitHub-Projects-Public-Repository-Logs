@@ -15,9 +15,7 @@
       <td><a href="https://github.com/celik-muhammed/01-Python-for-Beginners" target="_blank">Repo details</a></td>
       <td><a href="^#" target="_blank">App details</a></td>
       <td>
-        <img src="https://www.python.org/static/img/python-logo.png" alt="python" height=41>
-        <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="python" height=41>
-        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="python" height=41>
+        <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height=41>
       </td>
     </tr>
     <tr>
@@ -25,9 +23,7 @@
       <td><a href="https://github.com/celik-muhammed/02-Python-Data-Structures" target="_blank">Repo details</a></td>
       <td><a href="^#" target="_blank">App details</a></td>
       <td>
-        <img src="https://www.python.org/static/img/python-logo.png" alt="python" height=41>
-        <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="python" height=41>
-        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="python" height=41>
+        <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height=41>
       </td>
     </tr>
     <tr>
@@ -35,9 +31,7 @@
       <td><a href="https://github.com/celik-muhammed/03-Intermediate-Python" target="_blank">Repo details</a></td>
       <td><a href="^#" target="_blank">App details</a></td>
       <td>
-        <img src="https://www.python.org/static/img/python-logo.png" alt="python" height=41>
-        <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="python" height=41>
-        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="python" height=41>
+        <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height=41>
       </td>
     </tr>
     <tr>
@@ -45,9 +39,7 @@
       <td><a href="https://github.com/celik-muhammed/04-Python-Core" target="_blank">Repo details</a></td>
       <td><a href="^#" target="_blank">App details</a></td>
       <td>
-        <img src="https://www.python.org/static/img/python-logo.png" alt="python" height=41>
-        <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="python" height=41>
-        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="python" height=41>
+        <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height=41>
       </td>
     </tr>
     <tr>
@@ -55,9 +47,7 @@
       <td><a href="https://github.com/celik-muhammed/09-Python-Application" target="_blank">Repo details</a></td>
       <td><a href="^#" target="_blank">App details</a></td>
       <td>
-        <img src="https://www.python.org/static/img/python-logo.png" alt="python" height=41>
-        <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="python" height=41>
-        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="python" height=41>
+        <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height=41>
       </td>
     </tr>
     <tr>
@@ -65,9 +55,7 @@
       <td><a href="https://github.com/celik-muhammed/11-Python-Data-Statistics-Basics" target="_blank">Repo details</a></td>
       <td><a href="^#" target="_blank">App details</a></td>
       <td>
-        <img src="https://www.python.org/static/img/python-logo.png" alt="python" height=41>
-        <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="python" height=41>
-        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="python" height=41>
+        <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height=41>
       </td>
     </tr>
     <tr>
@@ -75,9 +63,7 @@
       <td><a href="https://github.com/celik-muhammed/12-Python-Data-Analysis" target="_blank">Repo details</a></td>
       <td><a href="^#" target="_blank">App details</a></td>
       <td>
-        <img src="https://www.python.org/static/img/python-logo.png" alt="python" height=41>
-        <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="python" height=41>
-        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="python" height=41>
+        <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height=41>
       </td>
     </tr>
     <tr>
@@ -85,9 +71,7 @@
       <td><a href="https://github.com/celik-muhammed/13-Python-Data-Visualization" target="_blank">Repo details</a></td>
       <td><a href="^#" target="_blank">App details</a></td>
       <td>
-        <img src="https://www.python.org/static/img/python-logo.png" alt="python" height=41>
-        <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="python" height=41>
-        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="python" height=41>
+        <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height=41>
       </td>
     </tr>
     <tr>
