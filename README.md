@@ -3,15 +3,8 @@
 * [x] [markdown-cheat-sheet.md](./markdown-cheat-sheet.md)
 
 <table>
-  <thead>
-    <tr>
-      <th>Project Name</th>
-      <th>Repo Link</th>
-      <th>App Link</th>
-      <th>Overview</th>
-    </tr>
-  </thead>  
-  <tbody>
+  <thead><tr><th>Project Name</th><th>Repo Link</th><th>App Link</th><th>Overview</th></tr></thead>
+  <tbody>
     <tr>
       <td><a href="https://github.com/celik-muhammed/01-Python-for-Beginners" target="_blank">01-Python-for-Beginners</a></td>
       <td><a href="https://github.com/celik-muhammed/01-Python-for-Beginners" target="_blank">Repo details</a></td>
