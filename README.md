@@ -70,8 +70,8 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/celik-muhammed/60-SQL" target="_blank">60-SQL</a></td>
-      <td><a href="https://github.com/celik-muhammed/60-SQL" target="_blank">Repo details</a></td>
+      <td><a href="https://github.com/celik-muhammed/20-SQL" target="_blank">20-SQL</a></td>
+      <td><a href="https://github.com/celik-muhammed/20-SQL" target="_blank">Repo details</a></td>
       <td><a href="^#" target="_blank">App details</a></td>
       <td>
         <img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/azure-data-studio.svg?view=sql-server-ver15" alt="sql" height=40>
