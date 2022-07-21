@@ -82,8 +82,8 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/celik-muhammed/70-Linux" target="_blank">70-Linux</a></td>
-      <td><a href="https://github.com/celik-muhammed/70-Linux" target="_blank">Repo details</a></td>
+      <td><a href="https://github.com/celik-muhammed/40-Linux" target="_blank">40-Linux</a></td>
+      <td><a href="https://github.com/celik-muhammed/40-Linux" target="_blank">Repo details</a></td>
       <td><a href="^#" target="_blank">App details</a></td>
       <td>
         <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_720/https://lh6.googleusercontent.com/a_-JNT0OC06ECZ2qVFHqbfQ9yhXK4bMzTeans4uHO2amgKA-5877J-o9Vey67OgRrcaYdBShI32lfx_kP1Ea4B4njsmDikNzpM35M6B_wjlhiWKX0AgO8VnQcOM2qEmSvBomb36H_ruSgV5sUw" alt="linux" height=40>
