@@ -6,7 +6,7 @@
   <thead><tr><th>Overview</th><th>Projects Name</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
   <tbody>
     <tr>
-      <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height=41></td>
+      <td align='center'><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" height=41></td>
       <td><a href="https://github.com/celik-muhammed/01-Python-for-Beginners" target="_blank">01-Python-for-Beginners</a></td>
       <td><a href="https://github.com/celik-muhammed/01-Python-for-Beginners" target="_blank">Repo Link</a></td>
       <td><a href="^#" target="_blank">Github Page</a></td>
