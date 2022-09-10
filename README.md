@@ -10,11 +10,10 @@
 
 ### [Go to Home Page](https://github.com/celik-muhammed)
 
-<div align="center">
-<table align="center">
+<div align="center"><table align="center">
   <thead valign="top"><tr><th>Overview</th><th>Projects Name</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
   <thead align="left"><tr><th>Overview</th><th>Machine Learning with Python</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
-  </tbody>
+  <tbody>
     <tr>
       <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height=41></td>
       <td><a href="https://github.com/celik-muhammed/14-Python-Machine-Learning" target="_blank">14-Python-Machine-Learning</a></td>
@@ -27,10 +26,9 @@
       <td><a href="https://github.com/celik-muhammed/14P-Machine-Learning-Projects-with-Python" target="_blank">Repo Link</a></td>
       <td><a href="^#" target="_blank">Github Page</a></td>
     </tr>
-  </tbody>
-  
+  </tbody>  
   <thead align="left"><tr><th>Overview</th><th>Data Analysis with Python</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
-  </tbody>
+  <tbody>
     <tr>
       <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height=41></td>
       <td><a href="https://github.com/celik-muhammed/12-Python-Data-Analysis" target="_blank">12-Python-Data-Analysis</a></td>
@@ -43,10 +41,9 @@
       <td><a href="https://github.com/celik-muhammed/12P-Data-Analysis-Projects-with-Python" target="_blank">Repo Link</a></td>
       <td><a href="^#" target="_blank">Github Page</a></td>
     </tr>
-  </tbody>
-  
+  </tbody>  
   <thead align="left"><tr><th>Overview</th><th>Database</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
-  </tbody>
+  <tbody>
     <tr>
       <td align='center'><img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/azure-data-studio.svg?view=sql-server-ver15" alt="sql" height=40></td>
       <td><a href="https://github.com/celik-muhammed/20-SQL" target="_blank">20-SQL</a></td>
@@ -60,9 +57,8 @@
       <td><a href="^#" target="_blank">Github Page</a></td>
     </tr>
   </tbody>  
-  
   <thead align="left"><tr><th>Overview</th><th>Data Visualization</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
-  </tbody>
+  <tbody>
     <tr>
       <td align='center'><img src="https://www.tableau.com/favicon.ico" alt="linux" height=38></td>
       <td><a href="https://github.com/celik-muhammed/30-Tableau" target="_blank">30-Tableau</a></td>
@@ -75,18 +71,16 @@
       <td><a href="https://github.com/celik-muhammed/30P-Projects-Data-Analysis-with-Tableau" target="_blank">Repo Link</a></td>
       <td><a href="^#" target="_blank">Github Page</a></td>
     </tr>
-  </tbody>    
-  
+  </tbody>  
   <thead align="left"><tr><th>Overview</th><th>Unix Based Systems</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
-  </tbody>
+  <tbody>
     <tr>
       <td align='center'><img src="https://assets.ubuntu.com/v1/ed348358-logo-cof.svg" alt="linux" height=38></td>
       <td><a href="https://github.com/celik-muhammed/40-Linux" target="_blank">40-Linux</a></td>
       <td><a href="https://github.com/celik-muhammed/40-Linux" target="_blank">Repo Link</a></td>
       <td><a href="^#" target="_blank">Github Page</a></td>
     </tr>
-  </tbody>
-  
+  </tbody>  
   <thead align="left"><tr><th>Overview</th><th>Python Programing</th><th>Repo Links</th><th>Github Pages</th></tr></thead>  
   <tbody>
     <tr>
@@ -138,7 +132,6 @@
       <td><a href="^#" target="_blank">Github Page</a></td>
     </tr>
   </tbody>  
-</table>
-</div>
+</table></div>
 
 * [x] [markdown-cheat-sheet.md](./markdown-cheat-sheet.md)
