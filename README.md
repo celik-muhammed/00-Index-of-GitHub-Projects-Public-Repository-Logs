@@ -1,7 +1,5 @@
 ### [Go to Home Page](https://github.com/celik-muhammed)
 
-* [x] [markdown-cheat-sheet.md](./markdown-cheat-sheet.md)
-
 <div align="center">
 <table align="center">
   <thead><tr><th>Overview</th><th>Projects Name</th><th>Repo Links</th><th>Github Pages</th></tr></thead>  
@@ -133,3 +131,5 @@
   </tbody>  
 </table>
 </div>
+
+* [x] [markdown-cheat-sheet.md](./markdown-cheat-sheet.md)
