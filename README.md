@@ -2,8 +2,10 @@
 
 * [x] [markdown-cheat-sheet.md](./markdown-cheat-sheet.md)
 
-<table>
+<div align="center">
+<table align="center">
   <thead><tr><th>Overview</th><th>Projects Name</th><th>Repo Links</th><th>Github Pages</th></tr></thead>  
+  
   <thead align="left"><tr><th>Overview</th><th>Machine Learning with Python</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
   </tbody>
     <tr>
@@ -13,6 +15,7 @@
       <td><a href="^#" target="_blank">Github Page</a></td>
     </tr>
   </tbody>
+  
   <thead align="left"><tr><th>Overview</th><th>Data Analysis with Python</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
   </tbody>
     <tr>
@@ -22,6 +25,7 @@
       <td><a href="^#" target="_blank">Github Page</a></td>
     </tr>
   </tbody>
+  
   <thead align="left"><tr><th>Overview</th><th>Database</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
   </tbody>
     <tr>
@@ -30,7 +34,8 @@
       <td><a href="https://github.com/celik-muhammed/20-SQL" target="_blank">Repo Link</a></td>
       <td><a href="^#" target="_blank">Github Page</a></td>
     </tr>
-  </tbody>    
+  </tbody>  
+  
   <thead align="left"><tr><th>Overview</th><th>Data Visualization</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
   </tbody>
     <tr>
@@ -40,6 +45,7 @@
       <td><a href="^#" target="_blank">Github Page</a></td>
     </tr>
   </tbody>    
+  
   <thead align="left"><tr><th>Overview</th><th>Unix Based Systems</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
   </tbody>
     <tr>
@@ -49,6 +55,7 @@
       <td><a href="^#" target="_blank">Github Page</a></td>
     </tr>
   </tbody>
+  
   <thead align="left"><tr><th>Overview</th><th>Python Programing</th><th>Repo Links</th><th>Github Pages</th></tr></thead>  
   <tbody>
     <tr>
@@ -101,3 +108,4 @@
     </tr>
   </tbody>  
 </table>
+</div>
