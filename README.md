@@ -10,14 +10,14 @@
   </tbody>
     <tr>
       <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height=41></td>
-      <td><a href="https://github.com/celik-muhammed/11-Python-Data-Statistics-Basics" target="_blank">11-Python-Data-Statistics-Basics</a></td>
-      <td><a href="https://github.com/celik-muhammed/11-Python-Data-Statistics-Basics" target="_blank">Repo Link</a></td>
+      <td><a href="https://github.com/celik-muhammed/14-Python-Machine-Learning" target="_blank">14-Python-Machine-Learning</a></td>
+      <td><a href="https://github.com/celik-muhammed/14-Python-Machine-Learning" target="_blank">Repo Link</a></td>
       <td><a href="^#" target="_blank">Github Page</a></td>
     </tr>
     <tr>
       <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height=41></td>
-      <td><a href="https://github.com/celik-muhammed/12-Python-Data-Analysis" target="_blank">12-Python-Data-Analysis</a></td>
-      <td><a href="https://github.com/celik-muhammed/12-Python-Data-Analysis" target="_blank">Repo Link</a></td>
+      <td><a href="https://github.com/celik-muhammed/14P-Machine-Learning-Projects-with-Python" target="_blank">14P-Machine-Learning-Projects-with-Python</a></td>
+      <td><a href="https://github.com/celik-muhammed/14P-Machine-Learning-Projects-with-Python" target="_blank">Repo Link</a></td>
       <td><a href="^#" target="_blank">Github Page</a></td>
     </tr>
   </tbody>
@@ -26,14 +26,14 @@
   </tbody>
     <tr>
       <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height=41></td>
-      <td><a href="https://github.com/celik-muhammed/19-Data-Analysis-Projects-with-Python" target="_blank">19-Data-Analysis-Projects-with-Python</a></td>
-      <td><a href="https://github.com/celik-muhammed/19-Data-Analysis-Projects-with-Python" target="_blank">Repo Link</a></td>
+      <td><a href="https://github.com/celik-muhammed/12-Python-Data-Analysis" target="_blank">12-Python-Data-Analysis</a></td>
+      <td><a href="https://github.com/celik-muhammed/12-Python-Data-Analysis" target="_blank">Repo Link</a></td>
       <td><a href="^#" target="_blank">Github Page</a></td>
     </tr>
     <tr>
       <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height=41></td>
-      <td><a href="https://github.com/celik-muhammed/19-Data-Analysis-Projects-with-Python" target="_blank">19-Data-Analysis-Projects-with-Python</a></td>
-      <td><a href="https://github.com/celik-muhammed/19-Data-Analysis-Projects-with-Python" target="_blank">Repo Link</a></td>
+      <td><a href="https://github.com/celik-muhammed/12P-Data-Analysis-Projects-with-Python" target="_blank">12P-Data-Analysis-Projects-with-Python</a></td>
+      <td><a href="https://github.com/celik-muhammed/12P-Data-Analysis-Projects-with-Python" target="_blank">Repo Link</a></td>
       <td><a href="^#" target="_blank">Github Page</a></td>
     </tr>
   </tbody>
