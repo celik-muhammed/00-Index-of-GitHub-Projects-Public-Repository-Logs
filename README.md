@@ -12,7 +12,7 @@
 
 <div align="center">
 <table align="center">
-<thead valign="top"><tr><th>Overview</th><th>Projects Name</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
+<thead valign="top"><tr><th>Overview</th><th><h2 align='center'>Projects Name</h2></th><th>Repo Links</th><th>Github Pages</th></tr></thead>
 <thead align="left"><tr><th>Overview</th><th>Machine Learning with Python</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
 <tbody>
   <tr>
