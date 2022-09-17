@@ -10,7 +10,6 @@
 [medium]: https://celik-muhammed.medium.com/ "Medium Page"
 [github_pages]: https://celik-muhammed.github.io/ "GitHub Pages"
 
-
 <h3>
   
 [Go to Home Page](https://github.com/celik-muhammed)
