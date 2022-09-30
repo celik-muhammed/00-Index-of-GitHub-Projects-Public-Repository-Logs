@@ -106,14 +106,14 @@
 <tbody>
   <tr>
   <td align='center'><img src="https://www.tableau.com/favicon.ico" alt="linux" height=38></td>
-  <td><a href="https://github.com/celik-muhammed/30-Tableau/blob/master/README.md" target="_blank">30-Tableau</a></td>
-  <td><a href="https://github.com/celik-muhammed/30-Tableau" target="_blank">Repo Link</a></td>
+  <td><a href="https://github.com/celik-muhammed/30P-Projects-Data-Analysis-with-Tableau/blob/master/README.md" target="_blank">30P-Projects-Data-Analysis-with-Tableau</a></td>
+  <td><a href="https://github.com/celik-muhammed/30P-Projects-Data-Analysis-with-Tableau" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
   <tr>
   <td align='center'><img src="https://www.tableau.com/favicon.ico" alt="linux" height=38></td>
-  <td><a href="https://github.com/celik-muhammed/30P-Projects-Data-Analysis-with-Tableau/blob/master/README.md" target="_blank">30P-Projects-Data-Analysis-with-Tableau</a></td>
-  <td><a href="https://github.com/celik-muhammed/30P-Projects-Data-Analysis-with-Tableau" target="_blank">Repo Link</a></td>
+  <td><a href="https://github.com/celik-muhammed/30-Tableau/blob/master/README.md" target="_blank">30-Tableau</a></td>
+  <td><a href="https://github.com/celik-muhammed/30-Tableau" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
 </tbody>
