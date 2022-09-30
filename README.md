@@ -44,12 +44,6 @@
 <tbody>
   <tr>
   <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height=41></td>
-  <td><a href="https://github.com/celik-muhammed/13-Python-Data-Visualization/blob/master/README.md" target="_blank">13-Python-Data-Visualization</a></td>
-  <td><a href="https://github.com/celik-muhammed/13-Python-Data-Visualization" target="_blank">Repo Link</a></td>
-  <td><a href="^#" target="_blank">Github Page</a></td>
-  </tr>
-  <tr>
-  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height=41></td>
   <td><a href="https://github.com/celik-muhammed/13p-Data-Visualization-Projects-with-Python/blob/master/README.md" target="_blank">13P-Data-Visualization-Projects-with-Python</a></td>
   <td><a href="https://github.com/celik-muhammed/13P-Data-Visualization-Projects-with-Python" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
@@ -57,6 +51,12 @@
   <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height=41></td>
   <td><a href="https://github.com/celik-muhammed/13CS-Data-Visualization-Case-Studies-with-Python/blob/master/README.md" target="_blank">13CS-Data-Visualization-Case-Studies-with-Python</a></td>
   <td><a href="https://github.com/celik-muhammed/13CS-Data-Visualization-Case-Studies-with-Python" target="_blank">Repo Link</a></td>
+  <td><a href="^#" target="_blank">Github Page</a></td>
+  </tr>
+  <tr>
+  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height=41></td>
+  <td><a href="https://github.com/celik-muhammed/13-Python-Data-Visualization/blob/master/README.md" target="_blank">13-Python-Data-Visualization</a></td>
+  <td><a href="https://github.com/celik-muhammed/13-Python-Data-Visualization" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
 </tbody>
