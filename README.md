@@ -125,7 +125,7 @@
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
 </tbody>
-<thead align="left"><tr><th>Overview</th><th>Python Programing</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
+<thead align="left"><tr><th>Overview</th><th>Python Programming Language</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
 <tbody>
   <tr>
   <td align='center'><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" height=41></td>
