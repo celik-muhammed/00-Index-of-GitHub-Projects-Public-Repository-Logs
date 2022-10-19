@@ -22,25 +22,25 @@
 <thead align="left"><tr><th>Overview</th><th>Machine Learning with Python</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
 <tbody>
   <tr>
-  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='33'></td>
+  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='25'></td>
   <td><a href="https://github.com/celik-muhammed/14MLD-Machine-Learning-Deployment-Beta-App-with-Streamlit/blob/master/README.md" target="_blank" title='14MLD-Machine-Learning-Deployment-Beta-App-with-Streamlit'>14MLD-Machine-Learning-Deployment-Beta-App-with-Streamlit</a></td>
   <td><a href="https://github.com/celik-muhammed/14MLD-Machine-Learning-Deployment-Beta-App-with-Streamlit" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
   <tr>
-  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='33'></td>
+  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='25'></td>
   <td><a href="https://github.com/celik-muhammed/14P-Machine-Learning-Projects-with-Python/blob/master/README.md" target="_blank">14P-Machine-Learning-Projects-with-Python</a></td>
   <td><a href="https://github.com/celik-muhammed/14P-Machine-Learning-Projects-with-Python" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
   <tr>
-  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='33'></td>
+  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='25'></td>
   <td><a href="https://github.com/celik-muhammed/14CS-Machine-Learning-Case-Studies-with-Python/blob/master/README.md" target="_blank">14CS-Machine-Learning-Case-Studies-with-Python</a></td>
   <td><a href="https://github.com/celik-muhammed/14CS-Machine-Learning-Case-Studies-with-Python" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
   <tr>
-  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='33'></td>
+  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='25'></td>
   <td><a href="https://github.com/celik-muhammed/14-Python-Machine-Learning/blob/master/README.md" target="_blank" title='14-Python-Machine-Learning'>14-Python-Machine-Learning</a></td>
   <td><a href="https://github.com/celik-muhammed/14-Python-Machine-Learning" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
@@ -49,18 +49,18 @@
 <thead align="left"><tr><th>Overview</th><th>Data Visualization with Python</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
 <tbody>
   <tr>
-  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='33'></td>
+  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='25'></td>
   <td><a href="https://github.com/celik-muhammed/13p-Data-Visualization-Projects-with-Python/blob/master/README.md" target="_blank">13P-Data-Visualization-Projects-with-Python</a></td>
   <td><a href="https://github.com/celik-muhammed/13P-Data-Visualization-Projects-with-Python" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
-  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='33'></td>
+  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='25'></td>
   <td><a href="https://github.com/celik-muhammed/13CS-Data-Visualization-Case-Studies-with-Python/blob/master/README.md" target="_blank">13CS-Data-Visualization-Case-Studies-with-Python</a></td>
   <td><a href="https://github.com/celik-muhammed/13CS-Data-Visualization-Case-Studies-with-Python" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
   <tr>
-  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='33'></td>
+  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='25'></td>
   <td><a href="https://github.com/celik-muhammed/13-Python-Data-Visualization/blob/master/README.md" target="_blank">13-Python-Data-Visualization</a></td>
   <td><a href="https://github.com/celik-muhammed/13-Python-Data-Visualization" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
@@ -69,25 +69,25 @@
 <thead align="left"><tr><th>Overview</th><th>Data Analysis with Python</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
 <tbody>
   <tr>
-  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='33'></td>
+  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='25'></td>
   <td><a href="https://github.com/celik-muhammed/12P-Data-Analysis-Projects-with-Python/blob/master/README.md" target="_blank">12P-Data-Analysis-Projects-with-Python</a></td>
   <td><a href="https://github.com/celik-muhammed/12P-Data-Analysis-Projects-with-Python" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
   <tr>
-  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='33'></td>
+  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='25'></td>
   <td><a href="https://github.com/celik-muhammed/12CS-Data-Analysis-Case-Study-with-Python/blob/master/README.md" target="_blank">12CS-Data-Analysis-Case-Study-with-Python</a></td>
   <td><a href="https://github.com/celik-muhammed/12CS-Data-Analysis-Case-Study-with-Python" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
   <tr>
-  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='33'></td>
+  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='25'></td>
   <td><a href="https://github.com/celik-muhammed/12-Python-Data-Analysis/blob/master/README.md" target="_blank">12-Python-Data-Analysis</a></td>
   <td><a href="https://github.com/celik-muhammed/12-Python-Data-Analysis" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
   <tr>
-  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='33'></td>
+  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='25'></td>
   <td><a href="https://github.com/celik-muhammed/11-Python-Data-Statistics-Basics/blob/master/README.md" target="_blank">11-Python-Data-Statistics-Basics</a></td>
   <td><a href="https://github.com/celik-muhammed/11-Python-Data-Statistics-Basics" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
@@ -96,13 +96,13 @@
 <thead align="left"><tr><th>Overview</th><th>Database</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
 <tbody>
   <tr>
-  <td align='center'><img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/azure-data-studio.svg?view=sql-server-ver15" alt="sql" height='33'></td>
+  <td align='center'><img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/azure-data-studio.svg?view=sql-server-ver15" alt="sql" height='25'></td>
   <td><a href="https://github.com/celik-muhammed/20P-Data-Analysis-Projects-with-SQL-Server/blob/master/README.md" target="_blank">20P-Data-Analysis-Projects-with-SQL-Server</a></td>
   <td><a href="https://github.com/celik-muhammed/20P-Data-Analysis-Projects-with-SQL-Server" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
   <tr>
-  <td align='center'><img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/azure-data-studio.svg?view=sql-server-ver15" alt="sql" height='33'></td>
+  <td align='center'><img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/azure-data-studio.svg?view=sql-server-ver15" alt="sql" height='25'></td>
   <td><a href="https://github.com/celik-muhammed/20-SQL/blob/master/README.md" target="_blank">20-SQL</a></td>
   <td><a href="https://github.com/celik-muhammed/20-SQL" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
@@ -111,13 +111,13 @@
 <thead align="left"><tr><th>Overview</th><th>Data Visualization with Tableau</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
 <tbody>
   <tr>
-  <td align='center'><img src="https://www.tableau.com/favicon.ico" alt="linux" height='33'></td>
+  <td align='center'><img src="https://www.tableau.com/favicon.ico" alt="linux" height='25'></td>
   <td><a href="https://github.com/celik-muhammed/30P-Projects-Data-Analysis-with-Tableau/blob/master/README.md" target="_blank">30P-Projects-Data-Analysis-with-Tableau</a></td>
   <td><a href="https://github.com/celik-muhammed/30P-Projects-Data-Analysis-with-Tableau" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
   <tr>
-  <td align='center'><img src="https://www.tableau.com/favicon.ico" alt="linux" height='33'></td>
+  <td align='center'><img src="https://www.tableau.com/favicon.ico" alt="linux" height='25'></td>
   <td><a href="https://github.com/celik-muhammed/30-Tableau/blob/master/README.md" target="_blank">30-Tableau</a></td>
   <td><a href="https://github.com/celik-muhammed/30-Tableau" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
@@ -126,7 +126,7 @@
 <thead align="left"><tr><th>Overview</th><th>Unix Based Systems</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
 <tbody>
   <tr>
-  <td align='center'><img src="https://assets.ubuntu.com/v1/ed348358-logo-cof.svg" alt="linux" height='33'></td>
+  <td align='center'><img src="https://assets.ubuntu.com/v1/ed348358-logo-cof.svg" alt="linux" height='25'></td>
   <td><a href="https://github.com/celik-muhammed/40-Linux/blob/master/README.md" target="_blank">40-Linux</a></td>
   <td><a href="https://github.com/celik-muhammed/40-Linux" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
@@ -135,31 +135,31 @@
 <thead align="left"><tr><th>Overview</th><th>Python Programming Language</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
 <tbody>
   <tr>
-  <td align='center'><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" height='33'></td>
+  <td align='center'><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" height='25'></td>
   <td><a href="https://github.com/celik-muhammed/01-Python-for-Beginners/blob/master/README.md" target="_blank">01-Python-for-Beginners</a></td>
   <td><a href="https://github.com/celik-muhammed/01-Python-for-Beginners" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
   <tr>
-  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='33'></td>
+  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='25'></td>
   <td><a href="https://github.com/celik-muhammed/01P-Python-Application-Projects/blob/master/README.md" target="_blank">01P-Python-Application-Projects</a></td>
   <td><a href="https://github.com/celik-muhammed/01P-Python-Application-Projects" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
   <tr>
-  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='33'></td>
+  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='25'></td>
   <td><a href="https://github.com/celik-muhammed/02-Python-Data-Structures/blob/master/README.md" target="_blank">02-Python-Data-Structures</a></td>
   <td><a href="https://github.com/celik-muhammed/02-Python-Data-Structures" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
   <tr>
-  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='33'></td>
+  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='25'></td>
   <td><a href="https://github.com/celik-muhammed/03-Intermediate-Python/blob/master/README.md" target="_blank">03-Intermediate-Python</a></td>
   <td><a href="https://github.com/celik-muhammed/03-Intermediate-Python" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
   <tr>
-  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='33'></td>
+  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='25'></td>
   <td><a href="https://github.com/celik-muhammed/04-Python-Core/blob/master/README.md" target="_blank">04-Python-Core</a></td>
   <td><a href="https://github.com/celik-muhammed/04-Python-Core" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
