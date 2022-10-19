@@ -3,7 +3,7 @@
 <h3>
   
 [Go to Home Page](https://github.com/celik-muhammed)
-<img width=50%>
+<img width=50% alt=''>
 [Go to Home Page](https://github.com/celik-muhammed)
 </h3>
   
