@@ -96,13 +96,13 @@
 <thead align="left"><tr><th>Overview</th><th>Database</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
 <tbody>
   <tr>
-  <td align='center'><img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/azure-data-studio.svg?view=sql-server-ver15" alt="sql" height=40></td>
+  <td align='center'><img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/azure-data-studio.svg?view=sql-server-ver15" alt="sql" height='33'></td>
   <td><a href="https://github.com/celik-muhammed/20P-Data-Analysis-Projects-with-SQL-Server/blob/master/README.md" target="_blank">20P-Data-Analysis-Projects-with-SQL-Server</a></td>
   <td><a href="https://github.com/celik-muhammed/20P-Data-Analysis-Projects-with-SQL-Server" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
   <tr>
-  <td align='center'><img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/azure-data-studio.svg?view=sql-server-ver15" alt="sql" height=40></td>
+  <td align='center'><img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/azure-data-studio.svg?view=sql-server-ver15" alt="sql" height='33'></td>
   <td><a href="https://github.com/celik-muhammed/20-SQL/blob/master/README.md" target="_blank">20-SQL</a></td>
   <td><a href="https://github.com/celik-muhammed/20-SQL" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
@@ -111,13 +111,13 @@
 <thead align="left"><tr><th>Overview</th><th>Data Visualization with Tableau</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
 <tbody>
   <tr>
-  <td align='center'><img src="https://www.tableau.com/favicon.ico" alt="linux" height=38></td>
+  <td align='center'><img src="https://www.tableau.com/favicon.ico" alt="linux" height='33'></td>
   <td><a href="https://github.com/celik-muhammed/30P-Projects-Data-Analysis-with-Tableau/blob/master/README.md" target="_blank">30P-Projects-Data-Analysis-with-Tableau</a></td>
   <td><a href="https://github.com/celik-muhammed/30P-Projects-Data-Analysis-with-Tableau" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
   <tr>
-  <td align='center'><img src="https://www.tableau.com/favicon.ico" alt="linux" height=38></td>
+  <td align='center'><img src="https://www.tableau.com/favicon.ico" alt="linux" height='33'></td>
   <td><a href="https://github.com/celik-muhammed/30-Tableau/blob/master/README.md" target="_blank">30-Tableau</a></td>
   <td><a href="https://github.com/celik-muhammed/30-Tableau" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
@@ -126,7 +126,7 @@
 <thead align="left"><tr><th>Overview</th><th>Unix Based Systems</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
 <tbody>
   <tr>
-  <td align='center'><img src="https://assets.ubuntu.com/v1/ed348358-logo-cof.svg" alt="linux" height=38></td>
+  <td align='center'><img src="https://assets.ubuntu.com/v1/ed348358-logo-cof.svg" alt="linux" height='33'></td>
   <td><a href="https://github.com/celik-muhammed/40-Linux/blob/master/README.md" target="_blank">40-Linux</a></td>
   <td><a href="https://github.com/celik-muhammed/40-Linux" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
