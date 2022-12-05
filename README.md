@@ -169,3 +169,4 @@
 
 * [x] [markdown-cheat-sheet.md](./markdown-cheat-sheet.md)
 * [x] [Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax#html)
+* [x] [emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
