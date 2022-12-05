@@ -167,6 +167,7 @@
 </tbody>  
 </table></div>
 
+* [x] [markdown-cheat-sheet.pdf](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 * [x] [markdown-cheat-sheet.md](./markdown-cheat-sheet.md)
 * [x] [Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax#html)
 * [x] [emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
