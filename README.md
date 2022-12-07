@@ -142,8 +142,8 @@
   </tr>
   <tr>
   <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='25'></td>
-  <td><a href="https://github.com/celik-muhammed/01P-Python-Application-Projects/blob/master/README.md" target="_blank">01P-Python-Application-Projects</a></td>
-  <td><a href="https://github.com/celik-muhammed/01P-Python-Application-Projects" target="_blank">Repo Link</a></td>
+  <td><a href="https://github.com/celik-muhammed/01P-Script-Application-with-Python/blob/master/README.md" target="_blank">01P Script Application with Python</a></td>
+  <td><a href="https://github.com/celik-muhammed/01P-Script-Application-with-Python" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
   <tr>
