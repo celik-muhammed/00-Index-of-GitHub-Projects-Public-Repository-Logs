@@ -136,7 +136,7 @@
 <tbody>
   <tr>
   <td align='center'><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" height='25'></td>
-  <td><a href="https://github.com/celik-muhammed/01-Python/blob/master/README.md" target="_blank">01-Python-for-Beginners</a></td>
+  <td><a href="https://github.com/celik-muhammed/01-Python/blob/master/README.md" target="_blank">01-Python</a></td>
   <td><a href="https://github.com/celik-muhammed/01-Python" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
