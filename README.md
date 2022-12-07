@@ -136,32 +136,14 @@
 <tbody>
   <tr>
   <td align='center'><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" height='25'></td>
-  <td><a href="https://github.com/celik-muhammed/01-Python-for-Beginners/blob/master/README.md" target="_blank">01-Python-for-Beginners</a></td>
-  <td><a href="https://github.com/celik-muhammed/01-Python-for-Beginners" target="_blank">Repo Link</a></td>
+  <td><a href="https://github.com/celik-muhammed/01-Python/blob/master/README.md" target="_blank">01-Python-for-Beginners</a></td>
+  <td><a href="https://github.com/celik-muhammed/01-Python" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
   <tr>
   <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='25'></td>
-  <td><a href="https://github.com/celik-muhammed/01P-Script-Application-with-Python/blob/master/README.md" target="_blank">01P Script Application with Python</a></td>
+  <td><a href="https://github.com/celik-muhammed/01P-Script-Application-with-Python/blob/master/README.md" target="_blank">01P Script/Application with Python</a></td>
   <td><a href="https://github.com/celik-muhammed/01P-Script-Application-with-Python" target="_blank">Repo Link</a></td>
-  <td><a href="^#" target="_blank">Github Page</a></td>
-  </tr>
-  <tr>
-  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='25'></td>
-  <td><a href="https://github.com/celik-muhammed/02-Python-Data-Structures/blob/master/README.md" target="_blank">02-Python-Data-Structures</a></td>
-  <td><a href="https://github.com/celik-muhammed/02-Python-Data-Structures" target="_blank">Repo Link</a></td>
-  <td><a href="^#" target="_blank">Github Page</a></td>
-  </tr>
-  <tr>
-  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='25'></td>
-  <td><a href="https://github.com/celik-muhammed/03-Intermediate-Python/blob/master/README.md" target="_blank">03-Intermediate-Python</a></td>
-  <td><a href="https://github.com/celik-muhammed/03-Intermediate-Python" target="_blank">Repo Link</a></td>
-  <td><a href="^#" target="_blank">Github Page</a></td>
-  </tr>
-  <tr>
-  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='25'></td>
-  <td><a href="https://github.com/celik-muhammed/04-Python-Core/blob/master/README.md" target="_blank">04-Python-Core</a></td>
-  <td><a href="https://github.com/celik-muhammed/04-Python-Core" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
 </tbody>  
