@@ -103,6 +103,12 @@
   </tr>
   <tr>
   <td align='center'><img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/azure-data-studio.svg?view=sql-server-ver15" alt="sql" height='25'></td>
+  <td><a href="https://github.com/celik-muhammed/20CS-Data-Analysis-Case-Studies-with-SQL-Server/blob/master/README.md" target="_blank">20CS-Data-Analysis-Case-Studies-with-SQL-Server</a></td>
+  <td><a href="https://github.com/celik-muhammed/20CS-Data-Analysis-Case-Studies-with-SQL-Server" target="_blank">Repo Link</a></td>
+  <td><a href="^#" target="_blank">Github Page</a></td>
+  </tr>
+  <tr>
+  <td align='center'><img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/azure-data-studio.svg?view=sql-server-ver15" alt="sql" height='25'></td>
   <td><a href="https://github.com/celik-muhammed/20-SQL/blob/master/README.md" target="_blank">20-SQL</a></td>
   <td><a href="https://github.com/celik-muhammed/20-SQL" target="_blank">Repo Link</a></td>
   <td><a href="^#" target="_blank">Github Page</a></td>
