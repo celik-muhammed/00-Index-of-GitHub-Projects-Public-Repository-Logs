@@ -19,6 +19,37 @@
 
 <table align="center">
 <thead valign="center"><tr><th>Overview</th><th><h2 align='center'>Projects Name</h2></th><th>Repo Links</th><th>Github Pages</th></tr></thead>
+  
+  
+<thead align="left"><tr><th>Overview</th><th>Machine Learning with Python</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
+<tbody>
+  <tr>
+  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='25'></td>
+  <td><a href="https://github.com/celik-muhammed/15DLD-Deep-Learning-Deployment-Beta-App-with-Streamlit/blob/master/README.md" target="_blank" title='15DLD-Deep-Learning-Deployment-Beta-App-with-Streamlit'>15DLD-Deep-Learning-Deployment-Beta-App-with-Streamlit</a></td>
+  <td><a href="https://github.com/celik-muhammed/15DLD-Deep-Learning-Deployment-Beta-App-with-Streamlit" target="_blank">Repo Link</a></td>
+  <td><a href="^#" target="_blank">Github Page</a></td>
+  </tr>
+  <tr>
+  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='25'></td>
+  <td><a href="https://github.com/celik-muhammed/15P-Deep-Learning-Projects-with-Python/blob/master/README.md" target="_blank">15P-Deep-Learning-Projects-with-Python</a></td>
+  <td><a href="https://github.com/celik-muhammed/15P-Deep-Learning-Projects-with-Python" target="_blank">Repo Link</a></td>
+  <td><a href="^#" target="_blank">Github Page</a></td>
+  </tr>
+  <tr>
+  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='25'></td>
+  <td><a href="https://github.com/celik-muhammed/15CS-Deep-Learning-Case-Studies-with-Python/blob/master/README.md" target="_blank">15CS-Deep-Learning-Case-Studies-with-Python</a></td>
+  <td><a href="https://github.com/celik-muhammed/15CS-Deep-Learning-Case-Studies-with-Python" target="_blank">Repo Link</a></td>
+  <td><a href="^#" target="_blank">Github Page</a></td>
+  </tr>
+  <tr>
+  <td align='center'><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_55,h_64/https://assets.ubuntu.com/v1/8ee86883-jupyter-logo.png" alt="jupyter" height='25'></td>
+  <td><a href="https://github.com/celik-muhammed/15-Python-Deep-Learning/blob/master/README.md" target="_blank" title='15-Python-Deep-Learning'>15-Python-Deep-Learning</a></td>
+  <td><a href="https://github.com/celik-muhammed/15-Python-Deep-Learning" target="_blank">Repo Link</a></td>
+  <td><a href="^#" target="_blank">Github Page</a></td>
+  </tr>
+</tbody>
+  
+  
 <thead align="left"><tr><th>Overview</th><th>Machine Learning with Python</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
 <tbody>
   <tr>
@@ -46,6 +77,8 @@
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
 </tbody>
+  
+  
 <thead align="left"><tr><th>Overview</th><th>Data Visualization with Python</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
 <tbody>
   <tr>
@@ -66,6 +99,8 @@
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
 </tbody>
+
+
 <thead align="left"><tr><th>Overview</th><th>Data Analysis with Python</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
 <tbody>
   <tr>
@@ -93,6 +128,8 @@
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
 </tbody>
+
+
 <thead align="left"><tr><th>Overview</th><th>Database</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
 <tbody>
   <tr>
@@ -114,6 +151,8 @@
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
 </tbody>
+
+
 <thead align="left"><tr><th>Overview</th><th>Data Visualization with Tableau</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
 <tbody>
   <tr>
@@ -129,6 +168,8 @@
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
 </tbody>
+
+
 <thead align="left"><tr><th>Overview</th><th>Unix Based Systems</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
 <tbody>
   <tr>
@@ -138,6 +179,8 @@
   <td><a href="^#" target="_blank">Github Page</a></td>
   </tr>
 </tbody>
+
+
 <thead align="left"><tr><th>Overview</th><th>Python Programming Language</th><th>Repo Links</th><th>Github Pages</th></tr></thead>
 <tbody>
   <tr>
